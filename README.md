@@ -80,7 +80,7 @@ python build.py
 - Windows 10/11
 
 
-## 联系方式
-如有问题或建议，请提交 Issue 或 Pull Request。
+## 技术支持
+如遇到问题，请联系系统管理员lucianaib或提交 Issue。
 
 
