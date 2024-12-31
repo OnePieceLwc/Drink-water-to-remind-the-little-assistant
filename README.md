@@ -32,6 +32,13 @@ pip install pyinstaller # 如需打包成exe
 ├── build.py # 打包脚本
 └── README.md # 项目说明文档
 ```
+## 运行结果展示
+![image](https://github.com/user-attachments/assets/453298b3-8a09-4b61-aa18-a0ff1adf73b1)
+![image](https://github.com/user-attachments/assets/a8fd07ce-a87d-4f26-8f9d-847545f08fa9)
+![image](https://github.com/user-attachments/assets/b46a6975-6636-494a-a6cc-5ea33d86eef6)
+
+
+
 ## 如何运行
 
 ### 方式一：直接运行Python脚本
